@@ -1,0 +1,100 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{lahman}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e17c8cd9df9ceee8760fd474b0509916}{%
+           family={Lahman},
+           familyi={L\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e17c8cd9df9ceee8760fd474b0509916}
+      \strng{fullhash}{e17c8cd9df9ceee8760fd474b0509916}
+      \strng{bibnamehash}{e17c8cd9df9ceee8760fd474b0509916}
+      \strng{authorbibnamehash}{e17c8cd9df9ceee8760fd474b0509916}
+      \strng{authornamehash}{e17c8cd9df9ceee8760fd474b0509916}
+      \strng{authorfullhash}{e17c8cd9df9ceee8760fd474b0509916}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lahman package}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/web/packages/Lahman/Lahman.pdf
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/web/packages/Lahman/Lahman.pdf
+      \endverb
+    \endentry
+    \entry{baseballreference}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=395b3f2eaaaec910b526e4202bf0d4dc}{%
+           family={LLC},
+           familyi={L\bibinitperiod},
+           given={Sports\bibnamedelima Reference},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \strng{fullhash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \strng{bibnamehash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \strng{authorbibnamehash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \strng{authornamehash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \strng{authorfullhash}{395b3f2eaaaec910b526e4202bf0d4dc}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Michael Conforto Game Logs}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.baseball-reference.com/players/c/confomi01.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.baseball-reference.com/players/c/confomi01.shtml
+      \endverb
+    \endentry
+    \entry{robinson}{book}{}
+      \name{author}{1}{}{%
+        {{hash=42a6c387e6c733bd0db8180d2bbacd30}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \strng{fullhash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \strng{bibnamehash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \strng{authorbibnamehash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \strng{authornamehash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \strng{authorfullhash}{42a6c387e6c733bd0db8180d2bbacd30}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Empirical Bayes: Examples from Bayesian Statistics}
+      \field{year}{2016}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
